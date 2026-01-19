@@ -7,7 +7,11 @@ Mobile Engineering
 Flutter Personal Task Manager Application
 
 ## Student Name
-Caleb Odusolu
+Odusolu Temitope Caleb
+
+300level, Computer Science
+
+23/10MSM021
 
 ## Institution
 Thomas Adewunmi University
@@ -53,11 +57,29 @@ Screenshots of these screens are provided below.
 
 ### Screenshots
 
+Splash Screen
 
-[Splash Screen](assets/screenshots/splash.png)
-[Home Screen](assets/screenshots/home.png)
-[Add Task Screen](assets/screenshots/add_task.png)
-[Task Details Screen](assets/screenshots/details.png)
+
+![Splash Screen--](https://github.com/calebodusolu-star/Flutter-project/blob/main/splash.png.png)
+
+Home Screen
+
+
+![Home Screen-->](https://github.com/calebodusolu-star/Flutter-project/blob/main/home.png.png)
+
+Add Task Screen
+
+
+![Add Task Screen-->](https://github.com/calebodusolu-star/Flutter-project/blob/main/add_task.png.png)
+
+Add Task SCreen
+
+![Add Task Screen-->](https://github.com/calebodusolu-star/Flutter-project/blob/main/add_task.png.png)
+
+Task Details
+
+
+![Task Details Screen-->](https://github.com/calebodusolu-star/Flutter-project/blob/main/task_detailss.png.png)
 -->
 
 ---
